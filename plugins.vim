@@ -62,3 +62,6 @@ Plugin 'SirVer/ultisnips'
 Plugin 'honza/vim-snippets'
 
 Plugin 'terryma/vim-multiple-cursors'
+
+"Buffer bye (:Bdelete)
+Plugin 'moll/vim-bbye'

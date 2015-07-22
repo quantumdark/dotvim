@@ -10,7 +10,7 @@ nnoremap <silent> <Leader>e :NERDTreeToggle<CR>
 nnoremap <silent> <Leader>l :set list!<CR>
 
 " Close buffer with ask save it
-nnoremap <silent> <Leader>w :confirm :Bclose<CR>
+nnoremap <silent> <Leader>w :Bdelete<CR>
 
 " CtrlP
 nnoremap <silent> <Leader>f :CtrlP<CR>
