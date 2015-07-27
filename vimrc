@@ -42,3 +42,5 @@ if filereadable(expand('~/.vim/keys.vim'))
     " Load keymaps
     source ~/.vim/keys.vim
 endif
+
+set rtp+=~/.fzf

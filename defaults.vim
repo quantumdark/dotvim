@@ -165,7 +165,6 @@ set path=.,,**
 set noshowmode " Suppress mode change messages
 
 " Store swap, backup and undo files in fixed location
-" set dir=/var/tmp//,/tmp//,.
-" set backupdir=/var/tmp//,/tmp//,.
-" set undodir=/var/tmp//,/tmp//,.
-
+set dir=/var/tmp//,/tmp//,.
+set backupdir=/var/tmp//,/tmp//,.
+set undodir=/var/tmp//,/tmp//,.
