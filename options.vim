@@ -235,3 +235,8 @@ command! FZFLines call fzf#run({
 \   'down':    '60%'
 \})
 " }}}
+
+" Vim-slime {{{
+let g:slime_target = "tmux"
+let g:slime_python_ipython = 1
+" }}}

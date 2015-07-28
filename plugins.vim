@@ -62,3 +62,5 @@ Plugin 'terryma/vim-multiple-cursors'
 
 "Buffer bye (:Bdelete)
 Plugin 'moll/vim-bbye'
+
+Plugin 'jpalardy/vim-slime'
