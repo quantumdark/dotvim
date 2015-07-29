@@ -64,3 +64,9 @@ Plugin 'terryma/vim-multiple-cursors'
 Plugin 'moll/vim-bbye'
 
 Plugin 'jpalardy/vim-slime'
+
+Plugin 'christoomey/vim-tmux-navigator'
+
+Plugin 'tpope/vim-surround'
+
+Plugin 'Raimondi/delimitMate'
