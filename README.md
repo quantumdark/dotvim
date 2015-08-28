@@ -1,2 +1,3 @@
 # dotvim
-Just my .vim configuration
+Project closed
+Now my .vim configuration in dotfiles.
